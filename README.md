@@ -1,12 +1,14 @@
 # 👋 Hi, I'm Hanisha Mohinani
 
 ## 🚀 About Me
-Software Engineer specializing in **full-stack development**, **distributed systems**, and **scalable architectures**. Currently pursuing my Master's in Computer Science at UT Dallas (GPA: 3.89/4.0) while working as a Software Engineer Intern at Copart.
+Software Engineer specializing in **full-stack development**, **distributed systems**, and **scalable architectures**. I have graduated with Master's in Computer Science degree at UT Dallas (GPA: 3.89/4.0) and working as a Software Engineer at Copart.
 
 ## 💼 Professional Experience
 - **Software Engineer Intern @ Copart** (May 2024 - Present)
   - Building event-driven microservices with Java, Spring Boot, and Kafka
-  - Generated $4M revenue through AI-powered automation using Google Gemini
+  - Automated document data extraction using Google Gemini prompt engineering, eliminating manual entry and achieving 97% accuracy
+  - Generated $4M revenue by reducing DMV processing time 60% through AI-powered automation
+  - Optimized Apache Solr search queries by 25% with dynamic React filters
   - Leading development initiatives and mentoring junior developers
 
 - **Software Engineer @ Deloitte** (May 2022 - August 2023)
@@ -14,10 +16,10 @@ Software Engineer specializing in **full-stack development**, **distributed syst
   - Automated financial transaction processing for 10,000+ monthly operations
   - Mentored team members and drove CI/CD adoption
 
-## 🛠️ Technical Stack
-**Languages & Databases:** Java, Python, JavaScript, TypeScript, SQL, MySQL, MongoDB  
-**Frameworks:** Spring Boot, React, Redux, Angular, GraphQL, Node.js, Express.js  
-**Tools & Technologies:** AWS, Docker, Kubernetes, Kafka, Redis, Apache Solr, Jenkins, CI/CD
+## 🛠 Technical Stack
+**Languages & Databases:** Java, Python, JavaScript, TypeScript, SQL, MySQL, MongoDB, Mongoose  
+**Frameworks & Libraries:** Spring Boot, Spring MVC, JPA, Hibernate, React, Redux, Node.js, Express.js, Flask, Angular, GraphQL, Apollo Server  
+**Tools & Technologies:** AWS, Docker, Kubernetes, Kafka, Redis, Apache Solr, Apache Nutch, Jenkins, NGINX, JWT, Bcrypt, Google Gemini, Prompt Engineering, CI/CD, RBAC
 
 ## 🎯 Featured Projects
 ### [Distributed Search Engine](https://github.com/HanishaMohinani)
@@ -42,7 +44,7 @@ Full-stack helpdesk platform with React, Node.js, Express, and MongoDB supportin
 - Mentored 5+ junior developers on React, Angular, Redis caching strategies, and best practices
 - Led cross-functional collaboration with product, QA, security, and UX teams
 
-## 💞️ Open to Collaborate On
+## 💞 Open to Collaborate On
 - Full-stack web applications with modern tech stacks
 - Distributed systems and microservices architecture
 - Database design and optimization projects
